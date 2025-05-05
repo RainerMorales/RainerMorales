@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @RainerMorales
-- 👀 I’m interested in Front-End Devoloping
-- 🌱 I’m currently learning ReactJS
+### 👋 Hi there, I'm Rainer!
 
-<!---
-RainerMorales/RainerMorales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring **Front-End Developer** passionate about building responsive web apps and clean, intuitive user interfaces.
+
+---
+
+🎓 **Education**  
+B.Sc. in Information Technology — Class of 2024
+
+🧠 **Currently Learning**  
+- HTML, CSS, JavaScript  
+- React & Tailwind CSS  
+- Git & GitHub  
+- Firebase (Authentication)
+
+💻 **What I’m Working On**  
+- Building small projects to improve my skills  
+- Learning how to build real-world responsive UIs  
+- Creating portfolio-ready apps step-by-step
+
+🌱 **Goals**  
+- Become a Junior Front-End Developer  
+- Contribute to open-source projects  
+- Keep learning and improving every day
+
+📫 **Let's Connect**  
+[LinkedIn](www.linkedin.com/in/rainer-morales-2970b0333) | [Portfolio]([https://your-portfolio.com](https://myportfolio-rainer.vercel.app/))
+
+---
+
+> “The best way to get started is to get started.” 🚀
