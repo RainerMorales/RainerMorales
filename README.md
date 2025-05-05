@@ -7,11 +7,12 @@ I'm an aspiring **Front-End Developer** passionate about building responsive web
 🎓 **Education**  
 B.Sc. in Information Technology — Class of 2024
 
-🧠 **Currently Learning**  
-- HTML, CSS, JavaScript  
-- React & Tailwind CSS  
-- Git & GitHub  
-- Firebase (Authentication)
+🧠 **Learning Journey**
+- ✅ HTML, CSS, JavaScript, TypeScript
+- ✅ React ,Tailwind CSS, Bootstrap
+- ✅ Git & GitHub
+- 🔄 Currently: Firebase (Authentication & Firestore) , Nextjs
+
 
 💻 **What I’m Working On**  
 - Building small projects to improve my skills  
