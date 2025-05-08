@@ -25,7 +25,7 @@ B.Sc. in Information Technology — Class of 2024
 - Keep learning and improving every day
 
 📫 **Let's Connect**  
-[LinkedIn](https://www.linkedin.com/in/rainer-morales-2970b0333) | [Portfolio](https://myportfolio-rainer.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/rainer-morales-2970b0333) | [Portfolio](https://my-portfolio-rainer.vercel.app/)
 
 ---
 
