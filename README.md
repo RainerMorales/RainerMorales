@@ -25,4 +25,4 @@ Eastwoods Proffesional College of Science and Technoloogy - Bachelor of Science 
 - Keep learning and improving every day
 
 📫 **Let's Connect**  
-[LinkedIn](https://www.linkedin.com/in/rainer-morales-2970b0333) | [Portfolio](https://my-portfolio-rainer.vercel.app/) | [Jobstreet]("https://ph.jobstreet.com/profile/rainer-morales-lP5ZTL0dsW")
+[LinkedIn](https://www.linkedin.com/in/rainer-morales-2970b0333) | [Portfolio](https://my-portfolio-rainer.vercel.app/) | [Jobstreet](https://ph.jobstreet.com/profile/rainer-morales-lP5ZTL0dsW)
