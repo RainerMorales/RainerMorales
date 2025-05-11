@@ -1,23 +1,23 @@
 ### 👋 Hi there, I'm Rainer!
 
-I'm an aspiring **Front-End Developer** passionate about building responsive web apps and clean, intuitive user interfaces.
+I'm an aspiring **Front-End Developer** passionate about building responsive web sites.
 
 ---
 
 🎓 **Education**  
-B.Sc. in Information Technology — Class of 2024
+Eastwoods Proffesional College of Science and Technoloogy - Bachelor of Science in Information Technology
 
 🧠 **Learning Journey**
 - ✅ HTML, CSS, JavaScript, TypeScript
-- ✅ React ,Tailwind CSS, Bootstrap
+- ✅ React ,Tailwind CSS, Bootstrap, Different Tailwind UI Library
 - ✅ Git & GitHub
-- 🔄 Currently: Firebase (Authentication & Firestore) , Nextjs
+- 🔄 Currently: Firebase, Nextjs
 
 
 💻 **What I’m Working On**  
 - Building small projects to improve my skills  
-- Learning how to build real-world responsive UIs  
-- Creating portfolio-ready apps step-by-step
+- Learning how to build real-world responsive UIs
+- 
 
 🌱 **Goals**  
 - Become a Junior Front-End Developer  
@@ -25,8 +25,4 @@ B.Sc. in Information Technology — Class of 2024
 - Keep learning and improving every day
 
 📫 **Let's Connect**  
-[LinkedIn](https://www.linkedin.com/in/rainer-morales-2970b0333) | [Portfolio](https://my-portfolio-rainer.vercel.app/)
-
----
-
-> “The best way to get started is to get started.” 🚀
+[LinkedIn](https://www.linkedin.com/in/rainer-morales-2970b0333) | [Portfolio](https://my-portfolio-rainer.vercel.app/) | [Jobstreet]("https://ph.jobstreet.com/profile/rainer-morales-lP5ZTL0dsW")
