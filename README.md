@@ -5,7 +5,7 @@ I'm an aspiring **Front-End Developer** passionate about building responsive web
 ---
 
 🎓 **Education**  
-Eastwoods Proffesional College of Science and Technoloogy - Bachelor of Science in Information Technology
+Bachelor of Science in Information Technology
 
 🧠 **Learning Journey**
 - ✅ HTML, CSS, JavaScript, TypeScript
@@ -24,5 +24,3 @@ Eastwoods Proffesional College of Science and Technoloogy - Bachelor of Science 
 - Contribute to open-source projects  
 - Keep learning and improving every day
 
-📫 **Let's Connect**  
-[LinkedIn](https://www.linkedin.com/in/rainer-morales-2970b0333) | [Portfolio](https://my-portfolio-rainer.vercel.app/) | [Jobstreet](https://ph.jobstreet.com/profile/rainer-morales-lP5ZTL0dsW)
