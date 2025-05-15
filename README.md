@@ -13,11 +13,9 @@ Bachelor of Science in Information Technology
 - ✅ Git & GitHub
 - 🔄 Currently: Firebase, Nextjs
 
-
 💻 **What I’m Working On**  
 - Building small projects to improve my skills  
 - Learning how to build real-world responsive UIs
-- 
 
 🌱 **Goals**  
 - Become a Junior Front-End Developer  
