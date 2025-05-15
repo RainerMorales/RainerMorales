@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Rainer!
+### 👋 Hello, I'm Rainer!
 
 I'm an aspiring **Front-End Developer** passionate about building responsive web sites.
 
@@ -21,4 +21,7 @@ Bachelor of Science in Information Technology
 - Become a Junior Front-End Developer  
 - Contribute to open-source projects  
 - Keep learning and improving every day
+
+- [Jobstreet](https://ph.jobstreet.com/profile/rainer-morales-lP5ZTL0dsW)
+
 
